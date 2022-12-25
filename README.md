@@ -1,5 +1,7 @@
 ###**Project's Title: Balanced Teams Generator**
 
+#### Video Demo:  <https://drive.google.com/file/d/16U8KTCDrh275tOEgWEVhI75bT_kzE-yp/view?usp=share_link>
+
 ##**Project Description**
 
 The BTG allows user to generate squads of teams using entered (or taken from SQL DB (in future)) Player names and rating. 
